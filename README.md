@@ -1,5 +1,7 @@
 # DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content
 
+![image](https://github.com/rickwang28574/DeepArt/assets/87885188/765bc683-8b0b-44bb-a37f-83e5016a7889)
+
 This repository contains the official implementation of the following paper:
 
 DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content
