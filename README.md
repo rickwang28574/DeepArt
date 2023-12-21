@@ -2,15 +2,11 @@
 
 ![image](https://github.com/rickwang28574/DeepArt/assets/87885188/636942b2-8d06-4b89-9cc0-1eb4c3b0c50f)
 
-![image](https://github.com/rickwang28574/DeepArt/assets/87885188/765bc683-8b0b-44bb-a37f-83e5016a7889)
-
 This repository contains the official implementation of the following paper:
 
 DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content
 
 <strong>Paper Link</strong>: <a href="http://arxiv.org/abs/2312.10407" rel="nofollow">official link</a>
-
-<strong>The data will release soon</strong>
 
 <strong>Thanks to all collaborators</strong>: <a href="https://anywherehope.com" rel="nofollow">Wentao Wang</a>, <a href="" rel="nofollow">Xuanyao Huang</a>, <a href="https://swalpa.github.io/" rel="nofollow">Swalpa Kumar Roy</a>
 
