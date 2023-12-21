@@ -8,7 +8,7 @@ DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content
 
 <strong>Paper Link</strong>: <a href="http://arxiv.org/abs/2312.10407" rel="nofollow">official link</a>
 
-<strong>Thanks to all collaborators</strong>: <a href="https://anywherehope.com" rel="nofollow">Wentao Wang</a>, <a href="" rel="nofollow">Xuanyao Huang</a>, <a href="https://swalpa.github.io/" rel="nofollow">Swalpa Kumar Roy</a>
+<strong>Thanks to all collaborators</strong>: <a href="https://anywherehope.com" rel="nofollow">Wentao Wang</a>, <a href="" rel="nofollow">Xuanyao Huang</a>, <a href="https://wangt0716.github.io/" rel="nofollow">Tianyang Wang</a>, <a href="https://swalpa.github.io/" rel="nofollow">Swalpa Kumar Roy</a>
 
 ## Citation
 Please cite
