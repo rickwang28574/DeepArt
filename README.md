@@ -12,7 +12,7 @@ DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content
 Please cite
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>@article{wang2023deepart,
   title={DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content},
-  author={Wentao Wang and Xuanyao Huang and Swalpa Kumar Roy},
+  author={Wentao Wang and Xuanyao Huang and Tianyang Wang and Swalpa Kumar Roy},
   year={2023},
   eprint={2312.10407},
   archivePrefix={arXiv},
@@ -21,7 +21,7 @@ Please cite
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@article{wang2023deepart,
   title={DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content},
-  author={Wentao Wang and Xuanyao Huang and Swalpa Kumar Roy},
+  author={Wentao Wang and Xuanyao Huang and Tianyang Wang and Swalpa Kumar Roy},
   year={2023},
   eprint={2312.10407},
   archivePrefix={arXiv},
